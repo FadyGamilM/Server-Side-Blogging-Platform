@@ -1,0 +1,12 @@
+E:\1- freelancing path\backend\Server-Side-Blogging-Platform\src\Brainstorming\Brainstorming.Domain\bin\Debug\net6.0\Brainstorming.Domain.deps.json
+E:\1- freelancing path\backend\Server-Side-Blogging-Platform\src\Brainstorming\Brainstorming.Domain\bin\Debug\net6.0\Brainstorming.Domain.dll
+E:\1- freelancing path\backend\Server-Side-Blogging-Platform\src\Brainstorming\Brainstorming.Domain\bin\Debug\net6.0\Brainstorming.Domain.pdb
+E:\1- freelancing path\backend\Server-Side-Blogging-Platform\src\Brainstorming\Brainstorming.Domain\obj\Debug\net6.0\Brainstorming.Domain.csproj.AssemblyReference.cache
+E:\1- freelancing path\backend\Server-Side-Blogging-Platform\src\Brainstorming\Brainstorming.Domain\obj\Debug\net6.0\Brainstorming.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\1- freelancing path\backend\Server-Side-Blogging-Platform\src\Brainstorming\Brainstorming.Domain\obj\Debug\net6.0\Brainstorming.Domain.AssemblyInfoInputs.cache
+E:\1- freelancing path\backend\Server-Side-Blogging-Platform\src\Brainstorming\Brainstorming.Domain\obj\Debug\net6.0\Brainstorming.Domain.AssemblyInfo.cs
+E:\1- freelancing path\backend\Server-Side-Blogging-Platform\src\Brainstorming\Brainstorming.Domain\obj\Debug\net6.0\Brainstorming.Domain.csproj.CoreCompileInputs.cache
+E:\1- freelancing path\backend\Server-Side-Blogging-Platform\src\Brainstorming\Brainstorming.Domain\obj\Debug\net6.0\Brainstorming.Domain.dll
+E:\1- freelancing path\backend\Server-Side-Blogging-Platform\src\Brainstorming\Brainstorming.Domain\obj\Debug\net6.0\refint\Brainstorming.Domain.dll
+E:\1- freelancing path\backend\Server-Side-Blogging-Platform\src\Brainstorming\Brainstorming.Domain\obj\Debug\net6.0\Brainstorming.Domain.pdb
+E:\1- freelancing path\backend\Server-Side-Blogging-Platform\src\Brainstorming\Brainstorming.Domain\obj\Debug\net6.0\ref\Brainstorming.Domain.dll
