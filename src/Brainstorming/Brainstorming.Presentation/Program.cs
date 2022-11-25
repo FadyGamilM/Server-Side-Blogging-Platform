@@ -1,5 +1,6 @@
 using Brainstorming.DAL;
 using Microsoft.EntityFrameworkCore;
+using Brainstorming.Domain;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -25,10 +26,23 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 
-app.MapGet("/weatherforecast", () =>
+app.MapGet("/api/authors", async (BrainstormingDbContext _context) =>
 {
-
+    var authors = await _context.Authors.ToListAsync();
+    return authors;
 })
 .WithName("GetWeatherForecast");
 
+
+app.MapPost("/api/authors", async (BrainstormingDbContext _context, AuthorEntitiy entity) => {
+    var author = new Brainstorming.Domain.Entities.Author();
+    author.FirstName = entity.firstName;
+    author.LastName = entity.lastName;
+    await _context.Authors.AddAsync(author);
+    await _context.SaveChangesAsync();
+    return author;
+});
+
 app.Run();
+
+internal record AuthorEntitiy (string firstName, string lastName);
